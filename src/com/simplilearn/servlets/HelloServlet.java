@@ -40,3 +40,5 @@ public class HelloServlet extends HttpServlet {
 }
 
 //WAP RoleFilter  -> admin, user
+// Wap ValidationFiler -> username -> min 8 char  , email -> email should  -> pasword 8 char 
+// WAP VisitCountFilter  -> count  -> count ++ 
